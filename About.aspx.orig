@@ -6,14 +6,11 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
         Abouttttsdfsadadfs
-        fsfsdfsdfdcsdfasdfds
 		Benny
         this is from niran
-<<<<<<< HEAD
-        this is from niran2
-=======
         this is from ssruppin
->>>>>>> e339e3ca54761003e1d03a5d08221896f1473bbf
+        commit from ssruppin
+        niran commit
     <p>
         Put content here.
     </p>

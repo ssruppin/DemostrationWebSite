@@ -6,7 +6,6 @@
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
         Abouttttsdfsadadfs
-        fsfsdfsdfdcsdfasdfds
 		Benny
         this is from niran
         this is from ssruppin
